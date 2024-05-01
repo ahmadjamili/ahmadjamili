@@ -11,4 +11,4 @@
 - Frameworks: TensorFlow
 - Libraries: scikit-learn, NumPy, Pandas
 - Data Analysis: Matplotlib
-<img src="link_to_your_python_icon.png" width="50" height="30" alt="Python icon">
+<img src="[link_to_your_python_icon.png](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)" width="50" height="30" alt="Python icon">
