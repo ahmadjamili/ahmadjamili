@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm Ahmad Jamili 
 
-<!--
-**ahmadjamili/ahmadjamili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- an aspiring AI/Machine Learning developer
+  
+- 🌱 I'm constantly learning and exploring new techniques in this evolving field.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: ahmadjamili1383@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- Programming Languages: Python
+- Frameworks: TensorFlow
+- Libraries: scikit-learn, NumPy, Pandas
+- Data Analysis: Matplotlib
